@@ -1,0 +1,27 @@
+{
+  "name": "angular-contentflow",
+  "version": "0.0.0",
+  "homepage": "https://github.com/deepu105/angular-contentflow",
+  "authors": [
+    "Deepu KS <d4udts@gmail.com>"
+  ],
+  "description": "An angular js plugin to create smooth coverflow/contentflow using javascript and css",
+  "main": "angular-contentflow.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "coverflow",
+    "contentflow",
+    "angular",
+    "slideshow"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
